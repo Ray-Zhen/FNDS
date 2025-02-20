@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python test.py --config_file './logs/cuhk_peds/20240706_191656_train_cuhk_rp-0.90_m-0.4_tau-0.03_epo-25_p-5000_q-4096/configs.yaml'
